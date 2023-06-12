@@ -1,5 +1,4 @@
 # Cesar
-Attaque par force brute
 
 Le chiffre de César est un chiffrement très faible, car il est très facile à casser. En effet, il n'y a que 26 clés possibles, ce qui signifie qu'il est possible de tester toutes les clés possibles pour trouver la bonne clé. C'est ce qu'on appelle une attaque par force brute.
 
